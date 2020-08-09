@@ -1,0 +1,28 @@
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+.selected{
+  font-size: 15px;
+  color: rgb(124, 122, 122);
+  border-bottom: 0.1px solid white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
